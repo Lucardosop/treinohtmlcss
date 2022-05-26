@@ -1,0 +1,18 @@
+body {
+  background: orange;
+}
+
+.box1 {
+  border:   solid;
+  width:    90%px;
+  height:   125px;
+  position: center;
+  
+}
+
+.titulo{
+  margin-left:    25%;
+  margin-bottom:  25%;
+  margin-top:     25%;
+  
+}
